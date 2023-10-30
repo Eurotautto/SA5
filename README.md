@@ -1,8 +1,8 @@
 
 ![Url da imagem do titulo](https://github.com/nikara/SA5/assets/62860064/ead7480f-1d1b-47ba-a190-faece5abd480)
 
-O projeto apresentado, vem com forma, de demostrar as finalidades de projetos com o GitHub, na situação de aprendizagem 5, que de contexto, foi utilizado a situação de aprendizagem 4 como modelo de repositorío ao projeto.
-O projeto consiste em uma aplicação web simples que permite gerenciar uma lista de tarefas. A aplicação utiliza Spring Boot para simplificar o processo de configuração e inicialização. Spring Web é usado para fornecer uma interface RESTful para a aplicação. Spring Data JPA é usado para acessar um banco de dados MySQL. Thymeleaf é usado para renderizar templates HTML. Lombok é usado para reduzir a quantidade de código boilerplate. Validation é usado para validar dados de entrada.
+  O projeto apresentado, vem com forma, de demostrar as finalidades de projetos com o GitHub, na situação de aprendizagem 5, que de contexto, foi utilizado a situação de aprendizagem 4 como modelo de repositorío ao projeto.
+  O projeto consiste em uma aplicação web simples que permite gerenciar uma lista de tarefas. A aplicação utiliza Spring Boot para simplificar o processo de configuração e inicialização. Spring Web é usado para fornecer uma interface RESTful para a aplicação. Spring Data JPA é usado para acessar um banco de dados MySQL. Thymeleaf é usado para renderizar templates HTML. Lombok é usado para reduzir a quantidade de código boilerplate. Validation é usado para validar dados de entrada.
 
 ## 🚀 Começando
 
@@ -26,13 +26,15 @@ Etapas de instalação e pacotes:
 
 Pacotes:
 
-* [SpringBoot.md](https://github.com/Eurotautto/novo-projeto/blob/main/SpringBoot) - 
-* [Bootstrap.md](https://github.com/Eurotautto/novo-projeto/blob/main/Bootstrap) -
-* [EclipseIDE.md](https://github.com/Eurotautto/novo-projeto/blob/main/EclipseIDE) -
-* [JavaDevelopmentKit.md](https://github.com/Eurotautto/novo-projeto/blob/main/JavaDevelopmentKit) -
-* [Thymeleaf.md](https://github.com/Eurotautto/novo-projeto/blob/main/Thymeleaf) - 
-* [MySQLCommunityServer.md](https://github.com/Eurotautto/novo-projeto/blob/main/MySQLCommunityServer) -
-* [Validation.md](https://github.com/Eurotautto/novo-projeto/blob/main/Validation) -
+Etapas de instalação e pacotes:
+* [EclipseIDE](https://github.com/nikara/SA5/blob/2175823f1f9613eca1a0a76b5fe7a5e620849dc5/INSTALA%C3%87%C3%82O#L3)
+* [MySQLCommunityServer](https://github.com/nikara/SA5/blob/2175823f1f9613eca1a0a76b5fe7a5e620849dc5/INSTALA%C3%87%C3%82O#L59)
+* [SpringBoot](https://github.com/nikara/SA5/blob/2175823f1f9613eca1a0a76b5fe7a5e620849dc5/INSTALA%C3%87%C3%82O#L155)
+* [Bootstrap](https://github.com/nikara/SA5/blob/38ac4f0683ea831dc65bde90246a2e57fca48b9d/INSTALA%C3%87%C3%82O#L352) 
+* [JavaDevelopmentKit](https://github.com/nikara/SA5/blob/2175823f1f9613eca1a0a76b5fe7a5e620849dc5/INSTALA%C3%87%C3%82O#L159) 
+* [Thymeleaf](https://github.com/nikara/SA5/blob/2175823f1f9613eca1a0a76b5fe7a5e620849dc5/INSTALA%C3%87%C3%82O#L208) 
+* [Validation](https://github.com/nikara/SA5/blob/2175823f1f9613eca1a0a76b5fe7a5e620849dc5/INSTALA%C3%87%C3%82O#L314)
+* [IntelliJ IDEA 2023.2.3](https://github.com/nikara/SA5/blob/e52f57dd7605a99943d40d7bbd2a3ffc327be034/INSTALA%C3%87%C3%82O#L407)
 
 
 
@@ -69,7 +71,7 @@ Rode seu Programa 😀
 
 ## 🖇️ Colaborando
 
-Por favor, leia o [COLABORACAO.md](https://gist.github.com/usuario/linkParaInfoSobreContribuicoes) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação.
+Por favor, leia o [COLABORACAO](https://gist.github.com/usuario/linkParaInfoSobreContribuicoes) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação.
 
 ## 📌 Versão
 
@@ -77,14 +79,14 @@ Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as vers�
 
 ## ✒️ Autores
 
-* **Nickolas Lamin** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/)
+* **Nickolas Lamin** - *Trabalho Inicial* - [nikara](https://github.com/nikara)
 * **Franklin Vinicius Holler** - *Documentação* - [Franklin Vinicius Holler](https://github.com/)
 * **Mateus Simonetti** - *Documentação* - [Eurotautto](https://github.com/Eurotautto)
 * **Mateus Vieira** - *Documentação* - [Mateus Vieira](https://github.com/)
 
 ## 📄 Licença
 
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/Eurotautto/novo-projeto/blob/main/LICENSE) para detalhes.
+Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE](https://github.com/Eurotautto/novo-projeto/blob/main/LICENSE) para detalhes.
 
 ## 🎁 Expressões de gratidão
 
