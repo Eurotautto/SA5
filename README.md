@@ -2,12 +2,10 @@
 
 # Trabalhando com Repositórios de Projetos no GitHub
 
-O projeto apresentado, vem com forma, de demostrar as finalidades de projetos com o GitHub, na situação de aprendizagem 5, que de contexto, foi utilizado a situação de aprendizagem 4 como modelo de repositorío ao projeto.
-O projeto consiste em uma aplicação web simples que permite gerenciar uma lista de tarefas. A aplicação utiliza Spring Boot para simplificar o processo de configuração e inicialização. Spring Web é usado para fornecer uma interface RESTful para a aplicação. Spring Data JPA é usado para acessar um banco de dados MySQL. Thymeleaf é usado para renderizar templates HTML. Lombok é usado para reduzir a quantidade de código boilerplate. Validation é usado para validar dados de entrada.
+    O projeto apresentado, vem com forma, de demostrar as finalidades de projetos com o GitHub, na situação de aprendizagem 5, que de contexto, foi utilizado a situação de aprendizagem 4 como modelo de repositorío ao projeto.
+    Consiste em uma aplicação web simples que permite gerenciar uma lista de tarefas. A aplicação utiliza Spring Boot para simplificar o processo de configuração e inicialização. Spring Web é usado para fornecer uma interface RESTful para a aplicação. Spring Data JPA é usado para acessar um banco de dados MySQL. Thymeleaf é usado para renderizar templates HTML. Lombok é usado para reduzir a quantidade de código boilerplate. Validation é usado para validar dados de entrada.
 
 ## 🚀 Começando
-
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
 Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
 
@@ -25,17 +23,15 @@ Uma série de exemplos passo-a-passo que informam o que você deve executar para
 
 
 Etapas de instalação e pacotes:
-* [EclipseIDE](https://github.com/Eurotautto/SA5/main/INSTALAÇÂO)
-* [MySQLCommunityServer](https://github.com/Eurotautto/SA5/main/INSTALAÇÂO)
-* [SpringBoot](https://github.com/Eurotautto/SA5/main/INSTALAÇÂO)
-* [Bootstrap](https://github.com/Eurotautto/SA5/main/INSTALAÇÂO) 
-* [JavaDevelopmentKit](https://github.com/Eurotautto/SA5/main/INSTALAÇÂO) 
-* [Thymeleaf](https://github.com/Eurotautto/SA5/main/INSTALAÇÂO) 
-* [Validation](https://github.com/Eurotautto/SA5/main/INSTALAÇÂO)
-* [IntelliJ IDEA 2023.2.3](https://github.com/Eurotautto/SA5/main/INSTALAÇÂO)
+* [EclipseIDE](https://github.com/Eurotautto/SA5/blob/main/INSTALAÇÂO)
+* [MySQLCommunityServer](https://github.com/Eurotautto/SA5/blob/main/INSTALAÇÂO)
+* [SpringBoot](https://github.com/Eurotautto/SA5/blob/main/INSTALAÇÂO)
+* [Bootstrap](https://github.com/Eurotautto/SA5/blob/main/INSTALAÇÂO)
+* [JavaDevelopmentKit](https://github.com/Eurotautto/SA5/blob/main/INSTALAÇÂO) 
+* [Thymeleaf](https://github.com/Eurotautto/SA5/blob/main/INSTALAÇÂO)
+* [Validation](https://github.com/Eurotautto/SA5/blob/main/INSTALAÇÂO)
+* [IntelliJ IDEA 2023.2.3](https://github.com/Eurotautto/SA5/blob/main/INSTALAÇÂO)
 
-
-Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
 
 
 ## 📦 Implantação
