@@ -25,14 +25,14 @@ Uma série de exemplos passo-a-passo que informam o que você deve executar para
 
 
 Etapas de instalação e pacotes:
-* [EclipseIDE](https://github.com/nikara/SA5/blob/2175823f1f9613eca1a0a76b5fe7a5e620849dc5/INSTALA%C3%87%C3%82O#L3)
-* [MySQLCommunityServer](https://github.com/nikara/SA5/blob/2175823f1f9613eca1a0a76b5fe7a5e620849dc5/INSTALA%C3%87%C3%82O#L59)
-* [SpringBoot](https://github.com/nikara/SA5/blob/2175823f1f9613eca1a0a76b5fe7a5e620849dc5/INSTALA%C3%87%C3%82O#L155)
-* [Bootstrap](https://github.com/nikara/SA5/blob/38ac4f0683ea831dc65bde90246a2e57fca48b9d/INSTALA%C3%87%C3%82O#L352) 
-* [JavaDevelopmentKit](https://github.com/nikara/SA5/blob/2175823f1f9613eca1a0a76b5fe7a5e620849dc5/INSTALA%C3%87%C3%82O#L159) 
-* [Thymeleaf](https://github.com/nikara/SA5/blob/2175823f1f9613eca1a0a76b5fe7a5e620849dc5/INSTALA%C3%87%C3%82O#L208) 
-* [Validation](https://github.com/nikara/SA5/blob/2175823f1f9613eca1a0a76b5fe7a5e620849dc5/INSTALA%C3%87%C3%82O#L314)
-* [IntelliJ IDEA 2023.2.3](https://github.com/nikara/SA5/blob/e52f57dd7605a99943d40d7bbd2a3ffc327be034/INSTALA%C3%87%C3%82O#L407)
+* [EclipseIDE](https://github.com/Eurotautto/SA5/main/INSTALAÇÂO)
+* [MySQLCommunityServer](https://github.com/Eurotautto/SA5/main/INSTALAÇÂO)
+* [SpringBoot](https://github.com/Eurotautto/SA5/main/INSTALAÇÂO)
+* [Bootstrap](https://github.com/Eurotautto/SA5/main/INSTALAÇÂO) 
+* [JavaDevelopmentKit](https://github.com/Eurotautto/SA5/main/INSTALAÇÂO) 
+* [Thymeleaf](https://github.com/Eurotautto/SA5/main/INSTALAÇÂO) 
+* [Validation](https://github.com/Eurotautto/SA5/main/INSTALAÇÂO)
+* [IntelliJ IDEA 2023.2.3](https://github.com/Eurotautto/SA5/main/INSTALAÇÂO)
 
 
 Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
@@ -40,13 +40,32 @@ Termine com um exemplo de como obter dados do sistema ou como usá-los para uma 
 
 ## 📦 Implantação
 
-Adicione notas adicionais sobre como implantar isso em um sistema ativo
+Para implatar a aplicação em sua IDE siga os seguintes passos
+
+Passo 1°
+
+Baixe os arquivos do programa em sua maquina.
+
+![Imagem da instalação 1°](https://github.com/nikara/SA5/assets/62860064/ed4e011b-765f-4e25-9a5b-304218aef33f)
+
+Passo 2°
+
+Importe os arquivos 
+
+![Imagem da instalação2](https://github.com/nikara/SA5/assets/62860064/6c312ab8-af6b-4774-a296-dc1f054472e2)
+
+Passo 3°
+
+Rode seu Programa 😀
+
+![Imagem da instalação3](https://github.com/nikara/SA5/assets/62860064/d6797cda-3d63-4fc5-bb1e-c33fc56b180b)
 
 ## 🛠️ Construído com
 
 * [Spring Boot]( https://spring.io/projects/spring-boot) - O framework web usado
 * [Bootstrap]( https://getbootstrap.com/) 
-* [Eclipse IDE for Enterprise Java and Web Developers]( https://www.eclipse.org/downloads/packages/release/2021-03/r/eclipse-ide-enterprise-java-and-web-developers) 
+* [Eclipse IDE for Enterprise Java and Web Developers]( https://www.eclipse.org/downloads/packages/release/2021-03/r/eclipse-ide-enterprise-java-and-web-developers)
+* [IntelliJ IDEA 2023.2.3](https://www.jetbrains.com/idea/)
 * [Java Development Kit]( https://www.oracle.com/java/technologies/downloads/) 
 * [Thymeleaf](https://www.thymeleaf.org/documentation.html) - Ambientes da web
 * [MySQL Community Server](https://dev.mysql.com/downloads/mysql/) - Banco de dados
